@@ -18,6 +18,7 @@ import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Pattern;
 import lombok.Data;
 
+
 @Data
 @Entity(name = "candidate")
 public class CandidateEntity {
@@ -49,4 +50,6 @@ public class CandidateEntity {
   
   @CreationTimestamp
   private LocalDateTime createdAt;
+
+  
 }
