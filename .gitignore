@@ -2,7 +2,7 @@
 /target/
 
 # Arquivos de configuração locais e senhas
-/src/main/resources/application.properties
+
 /src/main/resources/application.yml
 *.env
 
