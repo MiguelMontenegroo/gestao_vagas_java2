@@ -9,5 +9,6 @@ e candidatos podem aplicar para essas vagas.
 as tecnologias utilizadas vão estar no arquivo pom.xml
 dentro de dependencies.
 
+![swagger](./assets/swagger-ui.png)
 ![dashboard](./assets/dashboard_gestao_vagas_2.png)
 ![dashboard2](./assets/dashboard_gestao_vagas_2_certo.png)
